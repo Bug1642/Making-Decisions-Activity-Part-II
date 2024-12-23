@@ -1,0 +1,14 @@
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.AssemblyInfoInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.AssemblyInfo.cs
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.csproj.CoreCompileInputs.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\bin\Debug\net9.0\Decisions2.exe
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\bin\Debug\net9.0\Decisions2.deps.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\bin\Debug\net9.0\Decisions2.runtimeconfig.json
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\bin\Debug\net9.0\Decisions2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\bin\Debug\net9.0\Decisions2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\refint\Decisions2.dll
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.pdb
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\Decisions2.genruntimeconfig.cache
+C:\Users\Hasan-\Desktop\SoftwareDevelopment\ProgrammingC#\Decisions2\obj\Debug\net9.0\ref\Decisions2.dll
